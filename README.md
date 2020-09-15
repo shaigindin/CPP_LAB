@@ -1,4 +1,4 @@
-# CPP_LAB
+# C++ projects 
 
 All of the projects are from the cpp lab course @ Hebrew University of Jerusalem
 
